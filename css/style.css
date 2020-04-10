@@ -86,3 +86,22 @@ html {
 #upperThird h1 {
     font-family: 'Gabriela', serif;
 }
+
+#upperForth {
+    font-family: 'Quattrocento', serif;
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Gabriela', serif;
+}
+
+#upperForth h2 {
+    padding-bottom: 38px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#design,
+#development,
+#product {
+    display: none;
+}
