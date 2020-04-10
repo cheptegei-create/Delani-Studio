@@ -6,14 +6,14 @@
 *[Author](#author)
 *[License](#license)
 ## General info
-This is an ideological website for Delani Studio containing all the information about the company, portifolios, contact details, and online application form. Cick on the link to visit
+This is an ideological website for Delani Studio containing all the information about the company, portifolios, contact details, and online application form. Cick on the link to visit https://cheptegei-create.github.io/Delani-Studio/
 ## Technologies
 This project was created with:
 *html
 *css
 *Javascript
 ## Setup
-To run this project click on this link https://cheptegei-create.github.io/Akan-Names/
+To run this project click on this link https://cheptegei-create.github.io/Delani-Studio/
 ## Author's Name
 David Kiptoo Cheptegei
 ## Licence
