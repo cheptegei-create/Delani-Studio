@@ -17,4 +17,4 @@ To run this project click on this link https://cheptegei-create.github.io/Delani
 ## Author's Name
 David Kiptoo Cheptegei
 ## Licence
-Check out MIT license at this link https://github.com/cheptegei-create/Akan-Names/blob/master/LICENSE
+Check out MIT license at this link https://github.com/cheptegei-create/Delani-Studio/blob/master/LICENSE
