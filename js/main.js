@@ -32,10 +32,10 @@ $(document).ready(function() {
 });
 $(document).ready(function() {
     $('.text').hover(function() {
-            $(this).animate({ opacity: '1' });
+            $(this).css({ opacity: '1' });
         },
         function() {
-            $(this).animate({ opacity: '0' });
+            $(this).css({ opacity: '0' });
         })
 });
 $(document).ready(function() {
